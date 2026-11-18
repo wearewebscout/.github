@@ -16,6 +16,7 @@
   <a href="https://www.linkedin.com/company/webscout.eu"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-webscout.eu-0b3a8f?logo=linkedin&logoColor=white"></a>
   <a href="https://www.youtube.com/@webscouteu"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-@webscouteu-0b3a8f?logo=youtube&logoColor=white"></a>
   <a href="https://www.facebook.com/webscout.eu"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-webscout.eu-0b3a8f?logo=facebook&logoColor=white"></a>
+  <a href="https://www.tiktok.com/@webscout.eu"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-@webscout.eu-0b3a8f?logo=tiktok&logoColor=white"></a>
 </p>
 
 ---
